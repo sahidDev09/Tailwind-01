@@ -11,8 +11,7 @@ const Header = () => {
             Programming.
           </h1>
           <button className=" bg-indigo-600 text-white px-7 py-3 rounded-full text-xl hover:bg-[#F65023] transition">
-            {" "}
-            Join : Programming shikbo's Team{" "}
+            Join : Tailwind master course
             <svg
               xmlns="http://www.w3.org/2000/svg"
               fill="none"

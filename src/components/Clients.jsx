@@ -21,7 +21,7 @@ const Clients = () => {
             <h2 className=" text-xl">
               My take care of <br /> more
               <span className=" underline underline-offset-8 decoration-green-600">
-                then 500k
+                then 700k
               </span>
               <br /> customer
             </h2>
